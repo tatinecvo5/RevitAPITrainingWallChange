@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPITrainingWallChange.dll"</Assembly>
+		<AddInId>E89487FF-2B45-4E43-8888-B53534282D83</AddInId>
+		<FullClassName>RevitAPITrainingWallChange.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Изменение типа стен</Text>
+	</AddIn>
+</RevitAddIns>
